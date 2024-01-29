@@ -1,4 +1,4 @@
-# Avalanche_module_3
+# Avalanche_module_2
 This Solidity program is a simple contract that demonstrates the basic syntax and functionality of the Solidity programming language and the working of smart contracts in a blockchain. The purpose of this program is to serve as a starting point for a future Web3 and blockchain Journey.
 
 ## Description
